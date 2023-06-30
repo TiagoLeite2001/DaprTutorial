@@ -412,3 +412,8 @@ FodyWeavers.xsd
 # Additional files built by Visual Studio
 
 # End of https://www.toptal.com/developers/gitignore/api/visualstudio,dotnetcore
+ServiceInvocationBlock/.vs/ProjectEvaluation/serviceinvocationblock.metadata.v6.1
+ServiceInvocationBlock/WeatherAPI/obj/Debug/net7.0/WeatherAPI.assets.cache
+ServiceInvocationBlock/WeatherAPI/obj/Debug/net7.0/WeatherAPI.GeneratedMSBuildEditorConfig.editorconfig
+ServiceInvocationBlock/WeatherMVCFront/obj/Debug/net7.0/WeatherMVCFront.assets.cache
+ServiceInvocationBlock/WeatherMVCFront/obj/Debug/net7.0/WeatherMVCFront.GeneratedMSBuildEditorConfig.editorconfig
