@@ -1,4 +1,4 @@
-namespace WheaterAPI
+namespace WeatherAPI
 {
     public class WeatherForecast
     {
